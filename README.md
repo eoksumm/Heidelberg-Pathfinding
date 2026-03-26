@@ -1,4 +1,4 @@
-# B208 Advanced Algorithms: Hospital Pathfinding in Heidelberg
+# Hospital Pathfinding in Heidelberg
 
 This project compares Dijkstra's algorithm and A* search for emergency route planning in Heidelberg, Germany.
 
